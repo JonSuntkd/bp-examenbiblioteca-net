@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\familia\\Documents\\BancoPichincha\\Git\\CursoNetJunio\\evaluacion-practica\\Jonatan Suntaxi\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\familia\\Documents\\BancoPichincha\\Git\\bp-examenbiblioteca-net\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj",
       "projectName": "Curso.Biblioteca.Dominio",
-      "projectPath": "C:\\Users\\familia\\Documents\\BancoPichincha\\Git\\CursoNetJunio\\evaluacion-practica\\Jonatan Suntaxi\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj",
+      "projectPath": "C:\\Users\\familia\\Documents\\BancoPichincha\\Git\\bp-examenbiblioteca-net\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj",
       "packagesPath": "C:\\Users\\familia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\familia\\Documents\\BancoPichincha\\Git\\CursoNetJunio\\evaluacion-practica\\Jonatan Suntaxi\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\obj\\",
+      "outputPath": "C:\\Users\\familia\\Documents\\BancoPichincha\\Git\\bp-examenbiblioteca-net\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\familia\\AppData\\Roaming\\NuGet\\NuGet.Config",

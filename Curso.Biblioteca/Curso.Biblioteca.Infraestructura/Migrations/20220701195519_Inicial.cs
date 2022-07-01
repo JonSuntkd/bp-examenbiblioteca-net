@@ -4,7 +4,7 @@
 
 namespace Curso.Biblioteca.Infraestructura.Migrations
 {
-    public partial class AddConfiguration : Migration
+    public partial class Inicial : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

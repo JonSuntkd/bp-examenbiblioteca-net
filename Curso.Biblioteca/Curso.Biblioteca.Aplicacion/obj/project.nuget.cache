@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JAbRCFJbEYTyJLLhI/oIf+N0NdQflU9Unma5G0ZVCQ8N1eaHiwfWwaOkkIpNuCWmZHT4+t+3XaTzHx8gOoce3A==",
+  "dgSpecHash": "38NxK9fkDSxUAuVMqpWxA3ICwmwTmrsVMQ73/Q58ZoTXG+Zqbc60q0FIaD5ozRta8Yck/vNLk1ZnW5TzBhyuEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\familia\\Documents\\BancoPichincha\\Git\\CursoNetJunio\\evaluacion-practica\\Jonatan Suntaxi\\Curso.Biblioteca\\Curso.Biblioteca.Aplicacion\\Curso.Biblioteca.Aplicacion.csproj",
+  "projectFilePath": "C:\\Users\\familia\\Documents\\BancoPichincha\\Git\\bp-examenbiblioteca-net\\Curso.Biblioteca\\Curso.Biblioteca.Aplicacion\\Curso.Biblioteca.Aplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\familia\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\familia\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

@@ -19,15 +19,15 @@ namespace AdministracionAutors.Infraestructura.RepositorioImplementacion
             this.contexto = contexto;
         }
 
-        public async Task CreateAsync(Autor Autor)
+        public async Task CreateAsync(Autor autor)
         {
-            await contexto.AddAsync(Autor);
+            await contexto.AddAsync(autor);
             await contexto.SaveChangesAsync();
         }
 
-        public async Task DeleteAsync(Autor Autor)
+        public async Task DeleteAsync(Autor autor)
         {
-            contexto.Remove(Autor);
+            contexto.Remove(autor);
             await contexto.SaveChangesAsync();
         }
 
@@ -36,9 +36,9 @@ namespace AdministracionAutors.Infraestructura.RepositorioImplementacion
             return contexto.Autores.AsQueryable();
         }
 
-        public async Task UpdateAsync(Autor Autor)
+        public async Task UpdateAsync(Autor autor)
         {
-            contexto.Update(Autor);
+            contexto.Update(autor);
             await contexto.SaveChangesAsync();
         }
     }

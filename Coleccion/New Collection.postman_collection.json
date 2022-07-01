@@ -1,0 +1,141 @@
+{
+	"info": {
+		"_postman_id": "e0a65415-cb69-48ff-87b9-3c488e86e67a",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21314355"
+	},
+	"item": [
+		{
+			"name": "Apiweb",
+			"item": [
+				{
+					"name": "Autor",
+					"item": [
+						{
+							"name": "Getall",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "https://localhost:7030/api/Autor",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "7030",
+									"path": [
+										"api",
+										"Autor"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "GetById",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "https://localhost:7030/api/Autor/1",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "7030",
+									"path": [
+										"api",
+										"Autor",
+										"1"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Post",
+							"request": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n  \"nombre\": \"Raiza\",\r\n  \"apellido\": \"Rioverde\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:7030/api/Autor",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "7030",
+									"path": [
+										"api",
+										"Autor"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Delete",
+							"request": {
+								"method": "DELETE",
+								"header": [],
+								"url": {
+									"raw": "https://localhost:7030/api/Autor/5",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "7030",
+									"path": [
+										"api",
+										"Autor",
+										"5"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Put",
+							"request": {
+								"method": "PUT",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \r\n  \"nombre\": \"Jonathan\",\r\n  \"apellido\": \"Rioverde\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:7030/api/Autor/4",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "7030",
+									"path": [
+										"api",
+										"Autor",
+										"4"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -22,7 +22,7 @@ namespace AdministracionLibros.Infraestructura.Contexto
 
         protected override void OnConfiguring(DbContextOptionsBuilder constructor)
         {
-            var cadenaConexion = @"Server=(localdb)\mssqllocaldb;Database=Prudctos;Trusted_Connection=True";
+            var cadenaConexion = @"Server=(localdb)\mssqllocaldb;Database=bibliotecabp;Trusted_Connection=True";
             constructor.UseSqlServer(cadenaConexion);
         }
     }

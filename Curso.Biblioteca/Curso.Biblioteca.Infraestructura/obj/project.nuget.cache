@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TskzxQhQzIxTr8I3CpptJUXo9SNJ9AwqSCRNvR70uyLpxqrJOYnv8k6XkM9IRqXMOr1ratvNjczxxrITLD5jcQ==",
+  "dgSpecHash": "TEKWdXddpCvj/djv+6YOhQZC2yA+v6qZmrwhk41lbKXm1d6xReZNvZQPDPkqx0fGokeTxK82Acy4Rd5JNELHPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\familia\\Documents\\BancoPichincha\\Git\\CursoNetJunio\\evaluacion-practica\\Jonatan Suntaxi\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\Curso.Biblioteca.Infraestructura.csproj",
+  "projectFilePath": "C:\\Users\\familia\\Documents\\BancoPichincha\\Git\\bp-examenbiblioteca-net\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\Curso.Biblioteca.Infraestructura.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\familia\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\familia\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
